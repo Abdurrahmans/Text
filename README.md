@@ -26,4 +26,5 @@ The analysis will be done using -
 3.Matplotlib
 
 4.Seaborn
-
+Algorithm
+1. Logistic regression
